@@ -1,0 +1,38 @@
+<colors>
+    <color>
+        <c1>POS</c1>
+        <c2>BALANCA</c2>
+        <c3>PDT</c3>
+    </color>
+    <pos2>
+        <c1>Scaner</c1>
+        <c2>Yellow</c2>
+        <c3>Erro library</c3>
+    </pos2>
+    <pos21>
+        <c1>Reiniciar POS</c1>
+        <c2>Desligar cabos pretos</c2>
+        <c3>Reportar</c3>
+    </pos21>
+
+     <pos3>
+        <c1>Reiniciar POS</c1>
+        <c2>Verificar Cabos Pretos</c2>
+        <c3>Encaminhar para Field</c3>
+    </pos3>
+     <pos4>
+        <c1>papel</c1>
+        <c2>tesoura</c2>
+        <c3>coco</c3>
+    </pos4>
+     <pos5>
+        <c1>Cona</c1>
+        <c2>Pissa</c2>
+        <c3>Foda-se</c3>
+    </pos5>
+     <pos6>
+        <c1>xazus</c1>
+        <c2>seca</c2>
+        <c3>seca</c3>
+    </pos6>
+</colors>

@@ -1,0 +1,45 @@
+<stores>
+
+	<store rollNumer="101">
+	    <Name>Sintra - Rio de Mouro</Name>
+        <Color>964575245</Color>
+	    <Sell>Confirmar numero de loja</Sell>
+	</store>
+	<store rollNumer="103">
+	    <Name>Sintra-Mem Martins</Name>
+        <Color>964575173</Color>
+	    <Sell></Sell>
+	</store>
+	<store rollNumer="104">
+	    <Name>Sintra - Rio de Mouro</Name>
+        <Color>964575245</Color>
+	    <Sell>Confirmar numero de loja</Sell>
+	</store>
+	<store rollNumer="105">
+	    <Name>Cascais-Fontainhas</Name>
+        <Color>964575378</Color>
+	    <Sell></Sell>
+	</store>
+	<store rollNumer="113">
+	    <Name>Torres Novas</Name>
+        <Color>964575459</Color>
+	    <Sell>Verificar CA 1234</Sell>
+	</store>
+	<store rollNumer="114">
+	    <Name>Abrantes</Name>
+        <Color>967786017</Color>
+	    <Sell></Sell>
+	</store>
+	<store rollNumer="115">
+	    <Name>Marinha Grande</Name>
+        <Color>964575476</Color>
+	    <Sell></Sell>
+	</store>
+	<store rollNumer="166">
+	    <Name>Lisboa-Av. Rio Janeiro</Name>
+        <Color>920026261</Color>
+	    <Sell></Sell>
+	</store>
+
+</stores>
+
